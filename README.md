@@ -45,7 +45,7 @@ Cálculo de la reducción en un 7% respecto al año anterior.
 Análisis de las causas de los accidentes y las estrategias para reducirlos.
 Impacto de las medidas de seguridad en los motociclistas.
 
-`KPI 3:` [Tu KPI Propuesto]
+`KPI 3:` [En Desarrollo]
 
 
 
